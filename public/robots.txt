@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kedubootcamp.co.kr/sitemap.xml
+Sitemap: https://k-kukbi-fullstack.vercel.app/sitemap.xml
